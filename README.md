@@ -2,7 +2,7 @@
 Projects I worked on while attending the Data Science TripleTen Bootcamp
 
 
-| Project namber| Title | Description |
+| Project number| Title | Description |
 | :-----------: | ----------- | ----------- |
 1 | Customer Churn Prediction | The primary objective of this project is to analyze the dataset and build a machine learning model that can predict whether a customer is likely to churn. By leveraging advanced analytical techniques, the model will help marketing team develop targeted retention strategies, ultimately reducing churn rates and improving customer satisfaction. To build this predictive model, marketing team has compiled a comprehensive dataset containing personal information of clients, including details about their service plans and contract types. By identifying customers at risk of leaving, the company can proactively offer promotional codes and special plan options to retain them. |
 2 | Sentiment Analysis for customer Reviews | A Machine Learning for Text. The goal is developing a system for filtering and categorizing movie reviews, and to train a model to automatically detect negative reviews. We'll be using a dataset of IMBD movie reviews with polarity labelling to build a model for classifying positive and negative reviews. It will need to reach an F1 score of at least 0.85. |
